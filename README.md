@@ -20,6 +20,10 @@ It automatically logs "Spent Time" via the GitLab API and works seamlessly with 
 - Local token storage via Tampermonkey  
 - UI blends perfectly with GitLab's sidebar  
 
+## Screenshots
+<p align="center"><img src="images/Tracker_sidebar.png" alt="MAS Logo"></p>
+<p align="center"><img src="images/Tracker.png" alt="MAS Logo"></p>
+
 ---
 
 ## Installation
