@@ -92,6 +92,7 @@ No external scripts or third-party dependencies are used.
 Tested with:
 
 - GitLab 16–18 (Self-Managed EE/CE)
+- GitLab Cloud
 - Chrome, Firefox, Edge  
 - Tampermonkey 5.x  
 - Violentmonkey 2.x  
